@@ -14,10 +14,10 @@ As informações de instalação estão documentadas no manual.
 
 ## Aplicativo
   Script o qual abre o front-end.
-      app.R
+      ###app.R
   
   Solver aplicado para a resolução do problema.
-      otimiza.py
+      ###otimiza.py
   
   Exemplo para otimização.
-      CCP_acentos_atualizado_versao_31.01
+      ###CCP_acentos_atualizado_versao_31.01
