@@ -13,11 +13,11 @@ Esse planejamento de atendimento deve respeitar a disponibilidade de comparecime
 As informações de instalação estão documentadas no manual.
 
 ## Aplicativo
-  Script o qual abre o front-end.
+    ###Script o qual abre o front-end.
       ###app.R
   
-  Solver aplicado para a resolução do problema.
+    ###Solver aplicado para a resolução do problema.
       ###otimiza.py
   
-  Exemplo para otimização.
+    ###Exemplo para otimização.
       ###CCP_acentos_atualizado_versao_31.01
