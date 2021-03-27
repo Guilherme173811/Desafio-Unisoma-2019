@@ -7,3 +7,15 @@ O Desafio UniSoma 2019 ocorreu entre 15/07 e 31/08/2019, período os participant
 A ONG Casa da Criança Paralítica realiza cerca de 47.000 atendimentos médicos por ano. O Desafio UniSoma 2019 terá como foco a resolução do problema de alocação de crianças em horários de atendimento pela equipe técnica da ONG, buscando maximizar o número de crianças atendidas e suprir a demanda por atendimento médico.
 
 Esse planejamento de atendimento deve respeitar a disponibilidade de comparecimento na instituição por parte das crianças (dia e horário), assim como a disponibilidade de atendimento por parte do profissional de saúde.
+
+## Passo a Passo:
+As informações de instalação estão documentadas no manual.
+
+### app.R
+Script o qual abre o front-end.
+
+### otimiza.py
+Solver aplicado para a resolução do problema.
+
+### CCP_acentos_atualizado_versao_31.01
+Exemplo para otimização
